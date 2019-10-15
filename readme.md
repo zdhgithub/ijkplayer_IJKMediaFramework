@@ -14,6 +14,8 @@ cd ijkplayer-ios
 
 
 ### 添加 https 支持
+这是编译好的[IJKMediaFrameworkWithSSL](https://github.com/zdhgithub/ijkplayer_IJKMediaFrameworkWithSSL)
+
 ```
 # 获取 openssl 并初始化
 ./init-ios-openssl.sh
