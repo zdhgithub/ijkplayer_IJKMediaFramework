@@ -13,7 +13,7 @@ cd ijkplayer-ios
 ```
 
 
-### 添加 https 支持(未实验)
+### 添加 https 支持
 ```
 # 获取 openssl 并初始化
 ./init-ios-openssl.sh
