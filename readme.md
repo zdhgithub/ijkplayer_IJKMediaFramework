@@ -1,7 +1,7 @@
 pod (源码编译后里面的pod)
 
 ```
-pod 'ijkplayer'
+pod 'ijkplayer' //https://github.com/iOSDevLog/ijkplayer
 ```
 
 ### 编译源码
